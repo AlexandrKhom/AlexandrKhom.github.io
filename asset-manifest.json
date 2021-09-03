@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5e18b7fd.chunk.css",
+    "main.js": "/static/js/main.dc150899.chunk.js",
+    "main.js.map": "/static/js/main.dc150899.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5668577e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5668577e.js.map",
+    "static/js/2.99d2e680.chunk.js": "/static/js/2.99d2e680.chunk.js",
+    "static/js/2.99d2e680.chunk.js.map": "/static/js/2.99d2e680.chunk.js.map",
+    "static/js/3.dff32b6e.chunk.js": "/static/js/3.dff32b6e.chunk.js",
+    "static/js/3.dff32b6e.chunk.js.map": "/static/js/3.dff32b6e.chunk.js.map",
+    "static/js/4.4055b109.chunk.js": "/static/js/4.4055b109.chunk.js",
+    "static/js/4.4055b109.chunk.js.map": "/static/js/4.4055b109.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5e18b7fd.chunk.css.map": "/static/css/main.5e18b7fd.chunk.css.map",
+    "static/js/2.99d2e680.chunk.js.LICENSE.txt": "/static/js/2.99d2e680.chunk.js.LICENSE.txt",
+    "static/js/3.dff32b6e.chunk.js.LICENSE.txt": "/static/js/3.dff32b6e.chunk.js.LICENSE.txt",
+    "static/media/iphone.0561cacc.mp3": "/static/media/iphone.0561cacc.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5668577e.js",
+    "static/js/2.99d2e680.chunk.js",
+    "static/css/main.5e18b7fd.chunk.css",
+    "static/js/main.dc150899.chunk.js"
+  ]
+}
